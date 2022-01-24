@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include <assert.h>
+#include <cassert>
 #include <charconv>
 
 namespace day2 {
