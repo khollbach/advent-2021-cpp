@@ -7,4 +7,5 @@ add_executable(advent_2021_cpp
     src/main.cpp
     src/solutions/day1.cpp
     src/solutions/day2.cpp
+    src/solutions/day3.cpp
 )
